@@ -1,4 +1,4 @@
-package jenkins;
+
 
 public class Candidate {
 	
